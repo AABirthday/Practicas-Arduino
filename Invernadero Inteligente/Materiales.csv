@@ -1,0 +1,13 @@
+﻿Nombre,Cantidad,Componente
+"Rpot1, Rpot4, Rpot5",3,"250 kΩ Potenciómetro"
+"U1",1," LCD 16 x 2"
+"U2",1," Arduino Uno R3"
+"R1",1,"230 Ω Resistencia"
+"R2",1,"10 kΩ Resistencia"
+"R3",1," Fotorresistencia"
+"U3",1," Sensor de temperatura [TMP36]"
+"L1, L2",2," Bombilla"
+"P1",1,"5 , 5  Suministro de energía"
+"K1, K2",2," Relé SPDT"
+"SERVO1",1,"Posicional Microservomotor"
+"M1",1," Motor de CC"
